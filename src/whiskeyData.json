@@ -2,16 +2,18 @@
     {
         "index" : 0,
         "name" : "Aberlour",
-        "price" : 50,
+        "price" : 50.00,
         "age" : 10,
+        "ageRange" : "10",
         "region" : "Highland",
         "picture" : "images/aberlour-18-yo.jpeg"
     },
     {
         "index" : 1,
         "name" : "Rosebank",
-        "price" : 2999,
+        "price" : 2999.00,
         "age" : 31,
+        "ageRange" : "20+",
         "region" : "Lowland",
         "picture" : "images/rosebank.jpeg"
     },
@@ -20,22 +22,25 @@
         "name" : "Old Pulteney",
         "price" : 149.99,
         "age" : 18,
+        "ageRange" : "10-20",
         "region" : "Highland",
         "picture" : "images/old_p.jpeg"
     },
     {
         "index" : 3,
         "name" : "Benromach",
-        "price" : 1907,
+        "price" : 1907.00,
         "age" : 40,
+        "ageRange" : "20+",
         "region" : "Speyside",
         "picture" : "images/benromach.jpeg"
     },
     {
         "index" : 4,
         "name" : "GlenAllachie",
-        "price" : 97,
+        "price" : 97.00,
         "age" : 12,
+        "ageRange" : "10-20",
         "region" : "Speyside",
         "picture" : "images/glenallachie-12-1.jpeg"
     },
@@ -44,6 +49,7 @@
         "name" : "Balblair",
         "price" : 42.40,
         "age" : 15,
+        "ageRange" : "10-20",
         "region" : "Highland",
         "picture" : "images/balblair-15-year-old_1.jpeg"
     },
@@ -52,6 +58,7 @@
         "name" : "Glengoyne Cask Strength",
         "price" : 66.73,
         "age" : 10,
+        "ageRange" : "10",
         "region" : "Highland",
         "picture" : "images/glengoyne.jpeg"
     },
@@ -60,14 +67,16 @@
         "name" : "Arran 10",
         "price" : 36.96,
         "age" : 10,
+        "ageRange" : "10",
         "region" : "Campbeltown",
         "picture" : "images/arran_10.jpeg"
     },
     {
         "index" : 8,
         "name" : "Tomatin 18",
-        "price" : 115,
+        "price" : 115.00,
         "age" : 18,
+        "ageRange" : "10-20",
         "region" : "Highland",
         "picture" : "images/tomatin.jpeg"
     },
@@ -76,22 +85,25 @@
         "name" : "Ancnoc 18",
         "price" : 89.62,
         "age" : 10,
+        "ageRange" : "10",
         "region" : "Highland",
         "picture" : "images/ancnoc.jpeg"
     },
     {
         "index" : 10,
         "name" : "Tamdhu Cigar Malt",
-        "price" : 225,
+        "price" : 225.00,
         "age" : 15,
+        "ageRange" : "10-20",
         "region" : "Speyside",
         "picture" : "images/Tamdhu-Cigar-Malt-Sherry-Oak-Casks-Must-Have-Malts-MHM-450x600.jpeg"
     },
     {
         "index" : 11,
         "name" : "Glenmorangie Quinta Ruban",
-        "price" : 51,
+        "price" : 51.99,
         "age" : 14,
+        "ageRange" : "10-20",
         "region" : "Highland",
         "picture" : "images/glenmorangie.jpeg"
     }
